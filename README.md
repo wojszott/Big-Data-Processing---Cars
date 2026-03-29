@@ -8,8 +8,11 @@ Etao 2 Hive.hql
 
 ### Spark
 Realizowany na Google Cloud Platform
+
 W Jupyter Notebook realizowany 2 razy
+
 Część 1 - Spark Core (RDD API)
+
 Część 2 - Spark SQL (DataFrame API)
 
 ### Status projektu
