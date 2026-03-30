@@ -3,7 +3,9 @@ Projekt przetwarzania ogromnych danych zrealizowany na 2 sposoby: Apache Airflow
 
 ### Apache Airflow
 Realizowany na Google Cloud Platform
+
 Etap 1 MapReduce
+
 Etao 2 Hive.hql
 
 ### Spark
