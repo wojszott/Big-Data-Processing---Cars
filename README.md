@@ -8,7 +8,7 @@ Etap 1 MapReduce
 
 Etao 2 Hive.hql
 
-### Spark
+### Apache Spark
 Realizowany na Google Cloud Platform
 
 W Jupyter Notebook realizowany 2 razy
